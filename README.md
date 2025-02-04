@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am 22 years old Full-Stack developer. I major Computer Engineering at Middle East Technical University (ODTÜ) as a senior student .
+Hello! I’m a 24-year-old Software Engineer at StartupHeroes. I hold a bachelor's degree in Computer Engineering from Middle East Technical University (ODTÜ).
 
 
 ## 🌐 Socials:
